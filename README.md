@@ -10,8 +10,8 @@ This is a simple demo using middlewares.
 
 ## Usefull links
 
-You can see the following video:
-https://app.pluralsight.com/library/courses/owin-katana-understanding/table-of-contents
+You can see this example in the following video:
+* [Understanding Owin and Katana](https://app.pluralsight.com/library/courses/owin-katana-understanding/table-of-contents)
 
 
 
